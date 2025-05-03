@@ -19,7 +19,7 @@
 🚀 Projetos em destaque:
 - [APIprods](https://github.com/Rogwillians/APIprods): Uma API para CRUD de produtos de uma loja, com autenticação e manipulação de dados.
 - [Star Wars API Consumer](https://github.com/Rogwillians/starwars-api-consumer): Script simples para consumir a API pública do universo Star Wars.
-- **Tower Defense** *(projeto com código fechado)*: Jogo de defesa de torres feito com Unity, com foco em sistemas personalizados de ataque e movimentação.
+- **Tower Defense** *(projeto em andamento, código fechado)*: Estou desenvolvendo um jogo de defesa de torres com Unity, aplicando na prática conceitos de pathfinding, detecção de inimigos e lógica de ataque.
 
 📌 Curiosidades:
 - Gosto de jogos de estratégia e trabalho em equipe, como MOBAs
