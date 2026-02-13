@@ -10,7 +10,7 @@
 
 🛠️ Tecnologias que uso:
 - Linguagens: Java, PHP, JavaScript
-- Backend: Node.js, CodeIgniter, JWT, Laravel, Spring Boot
+- Backend: Node.js, JWT, Laravel, Spring Boot
 - Frontend: JavaScript, HTML, CSS, Bootstrap
 - Game Dev: Unity, C#
 - Banco de Dados: MySQL, PostgreSQL
